@@ -1,0 +1,2 @@
+# Naive-Bayes-classifiers-to-predict-whether-a-passenger-on-the-titanic-would-have-been-survived-or-no
+Naive Bayes classifiers are built on Bayesian classification methods. These rely on Bayes's theorem, which is an equation describing the relationship of conditional probabilities of statistical quantities. Create a Model using Naive Bayes classifiers to predict whether a passenger on the titanic would have been survived or not. Dataset can be downloaded from Kaggle.
